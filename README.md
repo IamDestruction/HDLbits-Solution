@@ -1,2 +1,3 @@
 # HDLbits-Solution
-Repository contains solution of problemSet given on hdlbits.01xz.net / HDLbits
+Repository contains solution of problemSet on HDLbits in verilog HDL
+link -> hdlbits.01xz.net/HDLbits
